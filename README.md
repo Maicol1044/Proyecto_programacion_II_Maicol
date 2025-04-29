@@ -32,9 +32,9 @@ print("hola mundo")
 $\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 
 ## imágenes
-![Imágen](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
+![Imágen]()
 
 ## Hipervínculos
-[Youtube](https://www.youtube.com/)
+[]()
 
 código markdown
